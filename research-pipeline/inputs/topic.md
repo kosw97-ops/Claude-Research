@@ -1,5 +1,13 @@
 # Research Topic
 
-<!-- 큰 주제를 여기에 작성하세요 -->
-<!-- 예시: platform competition in two-sided markets -->
+**Topic**: Restaurant subscription models
 
+**Domain**: Consumer behavior + employee behavior
+
+**Initial Questions**:
+- How do subscription models change consumer dining frequency and loyalty?
+- How do subscription models affect employee workload, tips, and job satisfaction?
+- Is there a tension between consumer value maximization and employee welfare?
+
+**Context**:
+Subscription models (e.g., Panera Bread's unlimited coffee/soda, Taco Bell's taco subscription) are an emerging pricing strategy in the restaurant industry. Little is known about second-order effects on employees.
